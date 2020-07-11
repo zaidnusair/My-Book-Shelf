@@ -1,0 +1,38 @@
+body {
+  background-image: url("background.jpg");
+}
+header {
+  text-align: center;
+  color: #320d6d;
+  background-color: #f5f5dc;
+  //this was added after the meeting ended
+}
+
+form {
+  color: #f5f5dc;
+  //this was added after the meeting ended
+}
+//The used colors are "#F5F5DC", "#320D6D", rgb(50, 13, 109,.8).
+
+table,
+th,
+td {
+  border: 3px solid black;
+  border-collapse: collapse;
+}
+
+table {
+  display: block;
+  background-color: #f5f5dc;
+  color: #320d6d;
+}
+
+#right {
+  display: block;
+  background-color: #320d6d;
+}
+
+#left {
+  display: block;
+  background-color: #320d6d;
+}
